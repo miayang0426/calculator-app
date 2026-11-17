@@ -9,7 +9,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #67ea78 0%, #764ba2 100%);
     font-family: 'Arial', sans-serif;
 }
 
@@ -58,7 +58,7 @@ button:active {
 }
 
 .equals {
-    background: #2196f3;
+    background: #f321f3;
     color: white;
     grid-row: span 2;
 }
